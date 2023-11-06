@@ -97,3 +97,14 @@ width: 50%;
 .checkbox {
 margin: 20px 0;
 }
+ .enviar {
+   width:40%;
+   padding: 15px 0;
+   background: orange;
+   color: white;
+   font-weight: bold;
+   font-size: 16px;
+   border: none;
+   border-radiu: 5px;
+   transition: 1s all;
+   cursor: pointer;
